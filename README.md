@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">🎵 Joel Nieto Mendoza 🎵</h1>
 
-<!--
-**Joel-Nieto/Joel-Nieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joel-Nieto/Joel-Nieto/main/banner.png" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Music-Lover-8B0000?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-%26%20Rhythm-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative-Mind-ff0033?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎧 SOBRE MÍ
+
+<p align="center">
+Músico y desarrollador. Mezclo lógica con creatividad para construir software con estilo.  
+Código limpio, ideas claras y ritmo constante.
+</p>
+
+---
+
+## 🎹 TECNOLOGÍAS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,js,cpp,cs" />
+</p>
+
+---
+
+## 💻 ENTORNO
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
+</p>
+
+---
+
+## 🎵 STACK VISUAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Nieto&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Nieto&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🎶 CÓDIGO CON SENTIDO
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    bool musica = true;
+    bool sentidoVida;
+
+    if(musica != false)
+        sentidoVida = false;
+    else
+        sentidoVida = true;
+
+    if(sentidoVida == false)
+        cout << "Sin musica, la vida no tiene sentido." << endl;
+    else
+        cout << "Todo tiene sentido." << endl;
+
+    return 0;
+}
