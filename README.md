@@ -41,8 +41,8 @@ Código limpio, ideas claras y ritmo constante.
 ## 🎵 STACK VISUAL
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Nieto&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Nieto&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
 </p>
 
 ---
